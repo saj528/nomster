@@ -38,6 +38,9 @@ gem 'will_paginate', '>= 3.1'
 #simple form
 gem 'simple_form'
 
+# font awesome icons
+gem "font-awesome-rails"
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
